@@ -257,5 +257,5 @@ if __name__ == '__main__':
 
 ## 写在最后
 * 关注[face-detection-induction-course](https://github.com/tomoncle/face-detection-induction-course)这个仓库，不定时更新更多的人脸识别小示例。
-* 这里我提供了一个临时测试的地址: https://liyuanjun.cn/gifmask，注意:**到2019-03-20号停止访问.**
+* 这里我提供了一个临时测试的地址: https://liyuanjun.cn/gifmask 或 https://tomoncle.com/gifmask 注意:**到2019-03-20号停止访问.**
 * [模型下载](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2)
