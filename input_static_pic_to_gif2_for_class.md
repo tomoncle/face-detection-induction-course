@@ -1,38 +1,38 @@
-# Ê¶±ğÈÎÒâ´æÔÚÈËÁ³µÄÕÕÆ¬£¬¶¯Ì¬Éú³É´÷Ä«¾µºÍµğÑÌ¾íµÄ¶¯Í¼
-![demo.gif](../images/input_static_pic_to_gif2_for_class.gif)
+# è¯†åˆ«ä»»æ„å­˜åœ¨äººè„¸çš„ç…§ç‰‡ï¼ŒåŠ¨æ€ç”Ÿæˆæˆ´å¢¨é•œå’Œå¼çƒŸå·çš„åŠ¨å›¾
+![demo.gif](images/input_static_pic_to_gif2_for_class.gif)
 
-## µ¼ÑÔ
-* ÎªÊ²Ã´»áĞ´Õâ¸öÈËÁ³Àı×Ó£¿
-> ä¯ÀÀ²©¿ÍµÄ¹ı³Ì£¬ÎŞÒâ·¢ÏÖÁËÒ»ÆªÃûÎª[deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/)µÄÎÄÕÂ,
-Í¨¹ıÕâÆªÎÄÕÂ£¬Ê¹ÎÒÓĞÁËĞ´Õâ¸öÀı×ÓµÄÏë·¨.ÓÈÆäÊÇÏÖÔÚºÜ¶à¶ñ¸ãÊÓÆµÖĞ¾­³£³öÏÖÕâÑùµÄĞÅÏ¢£¬¸Ğ¾õ»¹ÊÇÓĞµãºÃÍæµÄ.
+## å¯¼è¨€
+* ä¸ºä»€ä¹ˆä¼šå†™è¿™ä¸ªäººè„¸ä¾‹å­ï¼Ÿ
+> æµè§ˆåšå®¢çš„è¿‡ç¨‹ï¼Œæ— æ„å‘ç°äº†ä¸€ç¯‡åä¸º[deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/)çš„æ–‡ç« ,
+é€šè¿‡è¿™ç¯‡æ–‡ç« ï¼Œä½¿æˆ‘æœ‰äº†å†™è¿™ä¸ªä¾‹å­çš„æƒ³æ³•.å°¤å…¶æ˜¯ç°åœ¨å¾ˆå¤šæ¶æè§†é¢‘ä¸­ç»å¸¸å‡ºç°è¿™æ ·çš„ä¿¡æ¯ï¼Œæ„Ÿè§‰è¿˜æ˜¯æœ‰ç‚¹å¥½ç©çš„.
 
-* ¸ĞĞ»!
-> Ğ´Õâ¸öÀı×Ó³õÖÔÓë×ÊÁÏÀ´×Ô[burningion](https://www.makeartwithpython.com/)µÄ·ÖÏí. 
+* æ„Ÿè°¢!
+> å†™è¿™ä¸ªä¾‹å­åˆè¡·ä¸èµ„æ–™æ¥è‡ª[burningion](https://www.makeartwithpython.com/)çš„åˆ†äº«. 
 
-* ±ä»¯£¿
-> [deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/) ÕâÆªÎÄÕÂÊÇÒ»¸ö´÷ÑÛ¾µµÄ¼òµ¥Àı×Ó£¬
-ÎÒÔÚÆäÔ­»ù´¡ÉÏ£¬Ìí¼ÓÁËÑÌ¾íµÄ²¿·Ö£¬²¢ÇÒ°Ñ´úÂë½á¹¹ÖØ¹¹ÁËÒ»ÏÂ£¬Ê¹Æä¸üÒ×ÍØÕ¹ºÍÎ¬»¤£¬Ò²Ò×ÓÚÔÄ¶Á.
+* å˜åŒ–ï¼Ÿ
+> [deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/) è¿™ç¯‡æ–‡ç« æ˜¯ä¸€ä¸ªæˆ´çœ¼é•œçš„ç®€å•ä¾‹å­ï¼Œ
+æˆ‘åœ¨å…¶åŸåŸºç¡€ä¸Šï¼Œæ·»åŠ äº†çƒŸå·çš„éƒ¨åˆ†ï¼Œå¹¶ä¸”æŠŠä»£ç ç»“æ„é‡æ„äº†ä¸€ä¸‹ï¼Œä½¿å…¶æ›´æ˜“æ‹“å±•å’Œç»´æŠ¤ï¼Œä¹Ÿæ˜“äºé˜…è¯».
 
 
-## ÊµÏÖÁ÷³Ì
+## å®ç°æµç¨‹
 
-> ³ÌĞò´ÓÃüÁîĞĞ²ÎÊı»ñÈ¡Í¼Æ¬ĞÅÏ¢£¬È»ºó£¬Ëü½«Ê¹ÓÃDlibÖĞµÄÈËÁ³¼ì²âËã·¨À´²é¿´ÊÇ·ñÓĞÈËÁ³´æÔÚ¡£Èç¹ûÓĞ£¬Ëü½«ÎªÃ¿¸öÈËÁ³´´½¨Ò»¸ö½áÊøÎ»ÖÃ£¬ÑÛ¾µºÍÑÌ¾í»áÒÆ¶¯µ½ÄÇÀï½áÊø¡£
+> ç¨‹åºä»å‘½ä»¤è¡Œå‚æ•°è·å–å›¾ç‰‡ä¿¡æ¯ï¼Œç„¶åï¼Œå®ƒå°†ä½¿ç”¨Dlibä¸­çš„äººè„¸æ£€æµ‹ç®—æ³•æ¥æŸ¥çœ‹æ˜¯å¦æœ‰äººè„¸å­˜åœ¨ã€‚å¦‚æœæœ‰ï¼Œå®ƒå°†ä¸ºæ¯ä¸ªäººè„¸åˆ›å»ºä¸€ä¸ªç»“æŸä½ç½®ï¼Œçœ¼é•œå’ŒçƒŸå·ä¼šç§»åŠ¨åˆ°é‚£é‡Œç»“æŸã€‚
 
-> È»ºóÎÒÃÇĞèÒªËõ·ÅºÍĞı×ªÎÒÃÇµÄÑÛ¾µÒÔÊÊºÏÃ¿¸öÈËµÄÁ³¡£ÎÒÃÇ½«Ê¹ÓÃ´ÓDlibµÄ68µãÄ£ĞÍ·µ»ØµÄµã¼¯À´ÕÒµ½ÑÛ¾¦µÄÖĞĞÄ£¬²¢ÎªËüÃÇÖ®¼äµÄ¿Õ¼äĞı×ª¡£
+> ç„¶åæˆ‘ä»¬éœ€è¦ç¼©æ”¾å’Œæ—‹è½¬æˆ‘ä»¬çš„çœ¼é•œä»¥é€‚åˆæ¯ä¸ªäººçš„è„¸ã€‚æˆ‘ä»¬å°†ä½¿ç”¨ä»Dlibçš„68ç‚¹æ¨¡å‹è¿”å›çš„ç‚¹é›†æ¥æ‰¾åˆ°çœ¼ç›çš„ä¸­å¿ƒï¼Œå¹¶ä¸ºå®ƒä»¬ä¹‹é—´çš„ç©ºé—´æ—‹è½¬ã€‚
 
-> ÔÚÎÒÃÇÕÒµ½ÑÛ¾µµÄ×îÖÕÎ»ÖÃºÍĞı×ªºó£¬ÎÒÃÇ¿ÉÒÔÎªgifÖÆ×÷¶¯»­£¬ÑÛ¾µ´ÓÆÁÄ»¶¥²¿½øÈë¡£ÎÒÃÇ½«Ê¹ÓÃMoviePyºÍÒ»¸ömake_frameº¯Êı»æÖÆËü¡£
+> åœ¨æˆ‘ä»¬æ‰¾åˆ°çœ¼é•œçš„æœ€ç»ˆä½ç½®å’Œæ—‹è½¬åï¼Œæˆ‘ä»¬å¯ä»¥ä¸ºgifåˆ¶ä½œåŠ¨ç”»ï¼Œçœ¼é•œä»å±å¹•é¡¶éƒ¨è¿›å…¥ã€‚æˆ‘ä»¬å°†ä½¿ç”¨MoviePyå’Œä¸€ä¸ªmake_frameå‡½æ•°ç»˜åˆ¶å®ƒã€‚
 
-> Í¬ÀíÑÌ¾íÒ²ÊÇÕâÑù¡£
+> åŒç†çƒŸå·ä¹Ÿæ˜¯è¿™æ ·ã€‚
 
-> Ó¦ÓÃ³ÌĞòµÄÌåÏµ½á¹¹·Ç³£¼òµ¥¡£ÎÒÃÇÊ×ÏÈ½ÓÊÕÍ¼Æ¬£¬È»ºó½«Æä×ª»»Îª»Ò¶ÈNumPyÊı×é¡£¼ÙÈçÃ»ÓĞÈËÁ³£¬³ÌĞò»á×Ô¼ºÍË³ö£¬Èç¹û´æÔÚ£¬ÎÒÃÇ¾Í¿ÉÒÔ½«¼ì²âµ½µÄÈËÁ³ĞÅÏ¢´«µİµ½ÈËÁ³·½ÏòÔ¤²âÄ£ĞÍÖĞ¡£
+> åº”ç”¨ç¨‹åºçš„ä½“ç³»ç»“æ„éå¸¸ç®€å•ã€‚æˆ‘ä»¬é¦–å…ˆæ¥æ”¶å›¾ç‰‡ï¼Œç„¶åå°†å…¶è½¬æ¢ä¸ºç°åº¦NumPyæ•°ç»„ã€‚å‡å¦‚æ²¡æœ‰äººè„¸ï¼Œç¨‹åºä¼šè‡ªå·±é€€å‡ºï¼Œå¦‚æœå­˜åœ¨ï¼Œæˆ‘ä»¬å°±å¯ä»¥å°†æ£€æµ‹åˆ°çš„äººè„¸ä¿¡æ¯ä¼ é€’åˆ°äººè„¸æ–¹å‘é¢„æµ‹æ¨¡å‹ä¸­ã€‚
 
-> Í¨¹ı·µ»ØµÄÁ³²¿·½Ïò£¬ÎÒÃÇ¿ÉÒÔÑ¡ÔñÑÛ¾¦£¬Ëõ·ÅºÍĞı×ªÎÒÃÇµÄÑÛ¾µ¿ò¼ÜÒÔÊÊºÏÈËµÄÃæ²¿´óĞ¡¡£
+> é€šè¿‡è¿”å›çš„è„¸éƒ¨æ–¹å‘ï¼Œæˆ‘ä»¬å¯ä»¥é€‰æ‹©çœ¼ç›ï¼Œç¼©æ”¾å’Œæ—‹è½¬æˆ‘ä»¬çš„çœ¼é•œæ¡†æ¶ä»¥é€‚åˆäººçš„é¢éƒ¨å¤§å°ã€‚
 
-> µ±È»Õâ¸ö³ÌĞò²»½ö½öÖ»Õë¶ÔÓÚÒ»ÕÅÈËÁ³£¬¿ÉÒÔ¼ì²â¶à¸öÈËÁ³ĞÅÏ¢¡£
+> å½“ç„¶è¿™ä¸ªç¨‹åºä¸ä»…ä»…åªé’ˆå¯¹äºä¸€å¼ äººè„¸ï¼Œå¯ä»¥æ£€æµ‹å¤šä¸ªäººè„¸ä¿¡æ¯ã€‚
 
-> ×îºó£¬Í¨¹ı»ñÈ¡µÄÈËÁ³ÁĞ±í£¬ÎÒÃÇ¿ÉÒÔÊ¹ÓÃMoviePy´´½¨Ò»¸ö»æÍ¼£¬È»ºóÉú³ÉÎÒÃÇµÄ¶¯»­gif¡£
+> æœ€åï¼Œé€šè¿‡è·å–çš„äººè„¸åˆ—è¡¨ï¼Œæˆ‘ä»¬å¯ä»¥ä½¿ç”¨MoviePyåˆ›å»ºä¸€ä¸ªç»˜å›¾ï¼Œç„¶åç”Ÿæˆæˆ‘ä»¬çš„åŠ¨ç”»gifã€‚
 
-* 1.µ¼Èë¶ÔÓ¦µÄ¹¤¾ß°ü
+* 1.å¯¼å…¥å¯¹åº”çš„å·¥å…·åŒ…
 ```python
 import moviepy.editor as mpy
 import numpy as np
@@ -45,161 +45,161 @@ except ImportError:
     raise
 ```
 
-* ´´½¨ÈËÁ³Ê¶±ğµÄ¹¤¾ßÀà`FaceDetect`¼°Æä¶ÔÓ¦µÄ·½·¨
+* åˆ›å»ºäººè„¸è¯†åˆ«çš„å·¥å…·ç±»`FaceDetect`åŠå…¶å¯¹åº”çš„æ–¹æ³•
 ```python
 class FaceDetect(object):
-	pass
+    pass
 
 ```
 
-* ´´½¨`detector`¼°`predictor`Á½¸öÊôĞÔ£¬ÓÃÀ´¼ÓÔØdlib¿âº¯Êı
+* åˆ›å»º`detector`åŠ`predictor`ä¸¤ä¸ªå±æ€§ï¼Œç”¨æ¥åŠ è½½dlibåº“å‡½æ•°
 ```python
 @property
 def detector(self):
-	"""
-	¼ì²âÊÇ·ñÓĞÈËÁ³
-	:return:
-	"""
-	return get_frontal_face_detector()
+    """
+    æ£€æµ‹æ˜¯å¦æœ‰äººè„¸
+    :return:
+    """
+    return get_frontal_face_detector()
 
 @property
 def predictor(self):
-	"""
-	Ô¤²âÈËÁ³·½Ïò
-	:return:
-	"""
-	return shape_predictor('shape_predictor_68_face_landmarks.dat')
+    """
+    é¢„æµ‹äººè„¸æ–¹å‘
+    :return:
+    """
+    return shape_predictor('shape_predictor_68_face_landmarks.dat')
 
 ```
 
-* ´´½¨`init_mask`º¯Êı£¬ÓÃÀ´¼ÓÔØÃæ¾ßĞÅÏ¢(Ä«¾µ£¬ÑÌ¾íµÈĞÅÏ¢)
+* åˆ›å»º`init_mask`å‡½æ•°ï¼Œç”¨æ¥åŠ è½½é¢å…·ä¿¡æ¯(å¢¨é•œï¼ŒçƒŸå·ç­‰ä¿¡æ¯)
 ```python
 @classmethod
 def load(cls, img_src):
-	"""
-	¼ÓÔØÍ¼Æ¬×ªÎªImage¶ÔÏó
-	:param img_src:
-	:return:
-	"""
-	return Image.open(img_src)
+    """
+    åŠ è½½å›¾ç‰‡è½¬ä¸ºImageå¯¹è±¡
+    :param img_src:
+    :return:
+    """
+    return Image.open(img_src)
 	
 	
 def init_mask(self):
-	"""
-	¼ÓÔØÃæ¾ß
-	:return:
-	"""
-	self.deal, self.text, self.cigarette = (
-		self.load(x) for x in ["../images/deals.png", "../images/text.png", "../images/cigarette.png"]
-	)
+    """
+    åŠ è½½é¢å…·
+    :return:
+    """
+    self.deal, self.text, self.cigarette = (
+	self.load(x) for x in ["../images/deals.png", "../images/text.png", "../images/cigarette.png"]
+    )
 ```
 
-* ´´½¨ÊÕ¼¯ÈËÁ³ĞÅÏ¢µÄ¶ÔÓ¦·½·¨
-> Ê×ÏÈget_glasses_info·½·¨»á¸ù¾İµ±Ç°ÈËÁ³µÄÌØÕ÷Öµ¼°Í¼Æ¬»ù´¡ÉèÖÃ£¬¶ÔÍ¼Æ¬ÖĞÈËÁ³½øĞĞÃæ²¿¶¨Î»£¬¼ÆËãÑÛ½ÇÇãĞ±¶È£¬À´¸Ä±äÑÛ¾µ×îÖÕÎ»ÖÃ¼°½Ç¶È,²¢½«´ËĞÅÏ¢·µ»Ø¸øÃæ²¿¶¨Î»º¯Êı
-> get_cigarette_info ·½·¨»á¸ù¾İµ±Ç°ÈËÁ³µÄÌØÕ÷Öµ¼°Í¼Æ¬»ù´¡ÉèÖÃ£¬À´¼ÆËãÈËÁ³×ì°ÍµÄÎ»ÖÃ£¬²¢½«Æä·µ»Ø¸øÃæ²¿¶¨Î»º¯Êı
-> orientation ·½·¨»á½«»ù´¡µÄÈËÁ³ĞÅÏ¢Í¨¹ı"get_cigarette_info"ºÍ"get_glasses_info"·½·¨´¦Àíºó£¬ÔÙÒ»²¢·µ»Ø¸ø»­Í¼º¯Êı£¬¹©Æä»­Í¼
+* åˆ›å»ºæ”¶é›†äººè„¸ä¿¡æ¯çš„å¯¹åº”æ–¹æ³•
+> é¦–å…ˆget_glasses_infoæ–¹æ³•ä¼šæ ¹æ®å½“å‰äººè„¸çš„ç‰¹å¾å€¼åŠå›¾ç‰‡åŸºç¡€è®¾ç½®ï¼Œå¯¹å›¾ç‰‡ä¸­äººè„¸è¿›è¡Œé¢éƒ¨å®šä½ï¼Œè®¡ç®—çœ¼è§’å€¾æ–œåº¦ï¼Œæ¥æ”¹å˜çœ¼é•œæœ€ç»ˆä½ç½®åŠè§’åº¦,å¹¶å°†æ­¤ä¿¡æ¯è¿”å›ç»™é¢éƒ¨å®šä½å‡½æ•°
+> get_cigarette_info æ–¹æ³•ä¼šæ ¹æ®å½“å‰äººè„¸çš„ç‰¹å¾å€¼åŠå›¾ç‰‡åŸºç¡€è®¾ç½®ï¼Œæ¥è®¡ç®—äººè„¸å˜´å·´çš„ä½ç½®ï¼Œå¹¶å°†å…¶è¿”å›ç»™é¢éƒ¨å®šä½å‡½æ•°
+> orientation æ–¹æ³•ä¼šå°†åŸºç¡€çš„äººè„¸ä¿¡æ¯é€šè¿‡"get_cigarette_info"å’Œ"get_glasses_info"æ–¹æ³•å¤„ç†åï¼Œå†ä¸€å¹¶è¿”å›ç»™ç”»å›¾å‡½æ•°ï¼Œä¾›å…¶ç”»å›¾
 
 ```python
 def get_glasses_info(self, face_shape, face_width):
-	"""
-	»ñÈ¡µ±Ç°Ãæ²¿µÄÑÛ¾µĞÅÏ¢
-	:param face_shape:
-	:param face_width:
-	:return:
-	"""
-	left_eye = face_shape[36:42]
-	right_eye = face_shape[42:48]
+    """
+    è·å–å½“å‰é¢éƒ¨çš„çœ¼é•œä¿¡æ¯
+    :param face_shape:
+    :param face_width:
+    :return:
+    """
+    left_eye = face_shape[36:42]
+    right_eye = face_shape[42:48]
 
-	left_eye_center = left_eye.mean(axis=0).astype("int")
-	right_eye_center = right_eye.mean(axis=0).astype("int")
+    left_eye_center = left_eye.mean(axis=0).astype("int")
+    right_eye_center = right_eye.mean(axis=0).astype("int")
 
-	y = left_eye_center[1] - right_eye_center[1]
-	x = left_eye_center[0] - right_eye_center[0]
-	eye_angle = np.rad2deg(np.arctan2(y, x))
+    y = left_eye_center[1] - right_eye_center[1]
+    x = left_eye_center[0] - right_eye_center[0]
+    eye_angle = np.rad2deg(np.arctan2(y, x))
 
-	deal = self.deal.resize(
-		(face_width, int(face_width * self.deal.size[1] / self.deal.size[0])),
-		resample=Image.LANCZOS)
+    deal = self.deal.resize(
+	(face_width, int(face_width * self.deal.size[1] / self.deal.size[0])),
+	resample=Image.LANCZOS)
 
-	deal = deal.rotate(eye_angle, expand=True)
-	deal = deal.transpose(Image.FLIP_TOP_BOTTOM)
+    deal = deal.rotate(eye_angle, expand=True)
+    deal = deal.transpose(Image.FLIP_TOP_BOTTOM)
 
-	left_eye_x = left_eye[0, 0] - face_width // 4
-	left_eye_y = left_eye[0, 1] - face_width // 6
+    left_eye_x = left_eye[0, 0] - face_width // 4
+    left_eye_y = left_eye[0, 1] - face_width // 6
 
-	return {"image": deal, "pos": (left_eye_x, left_eye_y)}
+    return {"image": deal, "pos": (left_eye_x, left_eye_y)}
 
 def get_cigarette_info(self, face_shape, face_width):
-	"""
-	»ñÈ¡µ±Ç°Ãæ²¿µÄÑÛ¾µĞÅÏ¢
-	:param face_shape:
-	:param face_width:
-	:return:
-	"""
-	mouth = face_shape[49:68]
-	mouth_center = mouth.mean(axis=0).astype("int")
+    """
+    è·å–å½“å‰é¢éƒ¨çš„çœ¼é•œä¿¡æ¯
+    :param face_shape:
+    :param face_width:
+    :return:
+    """
+    mouth = face_shape[49:68]
+    mouth_center = mouth.mean(axis=0).astype("int")
 
-	cigarette = self.cigarette.resize(
-		(face_width, int(face_width * self.cigarette.size[1] / self.cigarette.size[0])),
-		resample=Image.LANCZOS)
+    cigarette = self.cigarette.resize(
+	(face_width, int(face_width * self.cigarette.size[1] / self.cigarette.size[0])),
+	resample=Image.LANCZOS)
 
-	x = mouth[0, 0] - face_width + int(16 * face_width / self.cigarette.size[0])
-	y = mouth_center[1]
-	return {"image": cigarette, "pos": (x, y)}
+    x = mouth[0, 0] - face_width + int(16 * face_width / self.cigarette.size[0])
+    y = mouth_center[1]
+    return {"image": cigarette, "pos": (x, y)}
 
 def orientation(self):
-	"""
-	ÈËÁ³¶¨Î»
-	:return:
-	"""
-	faces = []
-	for rect in self.rects:
-		face = {}
-		face_shades_width = rect.right() - rect.left()
-		predictor_shape = self.predictor(self.img_gray, rect)
-		face_shape = face_utils.shape_to_np(predictor_shape)
+    """
+    äººè„¸å®šä½
+    :return:
+    """
+    faces = []
+    for rect in self.rects:
+	face = {}
+	face_shades_width = rect.right() - rect.left()
+	predictor_shape = self.predictor(self.img_gray, rect)
+	face_shape = face_utils.shape_to_np(predictor_shape)
 
-		face['cigarette'] = self.get_cigarette_info(face_shape, face_shades_width)
-		face['glasses'] = self.get_glasses_info(face_shape, face_shades_width)
+	face['cigarette'] = self.get_cigarette_info(face_shape, face_shades_width)
+	face['glasses'] = self.get_glasses_info(face_shape, face_shades_width)
 
-		faces.append(face)
+	faces.append(face)
 
-	return faces
+    return faces
 ```
 
-* ÄÇÎÒÃÇ¿ªÊ¼À´ÊµÏÖ»­Í¼º¯Êı`drawing`
-> ¸ù¾İ´«ÈëµÄ²ÎÊıtÀ´¼ÆËãÉú³ÉGIFµÄ½ø¶È,ÕâÀïÉèÖÃ»­Í¼ÖÜÆÚÇ°2Ãë£¬À´ÒÆ¶¯Ãæ¾ß£¨¼´ÑÛ¾µºÍÑÌ¾í£©£¬ÔÚÁ½ÃëÇ°½áÊøÒÆ¶¯£¬È»ºóÔÙ»­³ö×ÖÌå£¬»ù±¾¾ÍÊÇÕâ¸öÁ÷³Ì.
-> Ãæ¾ßÒÆ¶¯µÄÊµÏÖ¾ÍÊÇÀ´¶¯Ì¬¸üĞÂÃæ¾ßµÄ×İ×ø±ê.
+* é‚£æˆ‘ä»¬å¼€å§‹æ¥å®ç°ç”»å›¾å‡½æ•°`drawing`
+> æ ¹æ®ä¼ å…¥çš„å‚æ•°tæ¥è®¡ç®—ç”ŸæˆGIFçš„è¿›åº¦,è¿™é‡Œè®¾ç½®ç”»å›¾å‘¨æœŸå‰2ç§’ï¼Œæ¥ç§»åŠ¨é¢å…·ï¼ˆå³çœ¼é•œå’ŒçƒŸå·ï¼‰ï¼Œåœ¨ä¸¤ç§’å‰ç»“æŸç§»åŠ¨ï¼Œç„¶åå†ç”»å‡ºå­—ä½“ï¼ŒåŸºæœ¬å°±æ˜¯è¿™ä¸ªæµç¨‹.
+> é¢å…·ç§»åŠ¨çš„å®ç°å°±æ˜¯æ¥åŠ¨æ€æ›´æ–°é¢å…·çš„çºµåæ ‡.
 
 ```python
 def drawing(self, t):
-	"""
-	¶¯Ì¬»­Í¼
-	:param t:
-	:return:
-	"""
-	draw_img = self.image.convert('RGBA')
-	if t == 0:
-		return np.asarray(draw_img)
-
-	for face in self.orientation():
-		if t <= self.duration - 2:
-			current_x = int(face["glasses"]["pos"][0])
-			current_y = int(face["glasses"]["pos"][1] * t / (self.duration - 2))
-			draw_img.paste(face["glasses"]["image"], (current_x, current_y), face["glasses"]["image"])
-
-			cigarette_x = int(face["cigarette"]["pos"][0])
-			cigarette_y = int(face["cigarette"]["pos"][1] * t / (self.duration - 2))
-			draw_img.paste(face["cigarette"]["image"], (cigarette_x, cigarette_y), face["cigarette"]["image"])
-		else:
-			draw_img.paste(face["glasses"]["image"], face["glasses"]["pos"], face["glasses"]["image"])
-			draw_img.paste(face["cigarette"]["image"], face["cigarette"]["pos"], face["cigarette"]["image"])
-			draw_img.paste(self.text, (75, draw_img.height // 2 + 128), self.text)
-
+    """
+    åŠ¨æ€ç”»å›¾
+    :param t:
+    :return:
+    """
+    draw_img = self.image.convert('RGBA')
+    if t == 0:
 	return np.asarray(draw_img)
+
+    for face in self.orientation():
+	if t <= self.duration - 2:
+	    current_x = int(face["glasses"]["pos"][0])
+	    current_y = int(face["glasses"]["pos"][1] * t / (self.duration - 2))
+	    draw_img.paste(face["glasses"]["image"], (current_x, current_y), face["glasses"]["image"])
+
+	    cigarette_x = int(face["cigarette"]["pos"][0])
+	    cigarette_y = int(face["cigarette"]["pos"][1] * t / (self.duration - 2))
+	    draw_img.paste(face["cigarette"]["image"], (cigarette_x, cigarette_y), face["cigarette"]["image"])
+	else:
+	    draw_img.paste(face["glasses"]["image"], face["glasses"]["pos"], face["glasses"]["image"])
+	    draw_img.paste(face["cigarette"]["image"], face["cigarette"]["pos"], face["cigarette"]["image"])
+    	    draw_img.paste(self.text, (75, draw_img.height // 2 + 128), self.text)
+
+    return np.asarray(draw_img)
 ```
 
-* ÒÔÉÏ»ù±¾µÄº¯Êı¼°ÊµÏÖÒÑ¾­Íê³É£¬ÈÃÎÒÃÇÀ´ÉèÖÃÒ»ÏÂ³õÊ¼»¯²ÎÊı
+* ä»¥ä¸ŠåŸºæœ¬çš„å‡½æ•°åŠå®ç°å·²ç»å®Œæˆï¼Œè®©æˆ‘ä»¬æ¥è®¾ç½®ä¸€ä¸‹åˆå§‹åŒ–å‚æ•°
 ```python
 class FaceDetect(object):
     def __init__(self, img_src, gif_path=None):
@@ -212,7 +212,7 @@ class FaceDetect(object):
         self.text = None
         self.cigarette = None
         if not self.validate:
-            print("Ã»ÓĞ¼ì²âµ½ÈËÁ³£¬³ÌĞòÍË³ö.")
+            print("æ²¡æœ‰æ£€æµ‹åˆ°äººè„¸ï¼Œç¨‹åºé€€å‡º.")
             exit(1)
         self.init_mask()
         self.make_gif(gif_path=gif_path)
@@ -220,7 +220,7 @@ class FaceDetect(object):
     @property
     def validate(self):
         """
-        ÑéÖ¤ÊÇ·ñ´æÔÚÈËÁ³£¬Èç¹û²»´æÔÚ·µ»ØFalse
+        éªŒè¯æ˜¯å¦å­˜åœ¨äººè„¸ï¼Œå¦‚æœä¸å­˜åœ¨è¿”å›False
         :return:
         """
         if self.image.size[0] > self.gif_max_width:
@@ -232,7 +232,7 @@ class FaceDetect(object):
 
     def make_gif(self, gif_path=None):
         """
-        :param gif_path: ±£´æÂ·¾¶
+        :param gif_path: ä¿å­˜è·¯å¾„
         :return:
         """
         gif_path = gif_path or "deal.gif"
@@ -240,10 +240,10 @@ class FaceDetect(object):
         animation.write_gif(gif_path, fps=self.duration)
 ```
 
-* ×îºóÎÒÃÇÊµÏÖÒ»ÏÂmainº¯Êı
+* æœ€åæˆ‘ä»¬å®ç°ä¸€ä¸‹mainå‡½æ•°
 ```python
 if __name__ == '__main__':
-    # ÔËĞĞ python input_static_pic_to_gif2_for_class.py -image ../images/1.jpg
+    # è¿è¡Œ python input_static_pic_to_gif2_for_class.py -image ../images/1.jpg
     import argparse
 
     parser = argparse.ArgumentParser()
@@ -253,9 +253,9 @@ if __name__ == '__main__':
     FaceDetect(args.image, args.save)
 ```
 
-* Ğ´µ½ÕâÀï£¬Õâ¸öĞ¡¹¦ÄÜ¾ÍÒÑ¾­ÊµÏÖÁË£¬´ó¼Ò²»·ÁÊÂÀ´Ê¹ÓÃÒ»ÏÂ.[»ñÈ¡ÍêÕû´úÂë](https://github.com/tomoncle/face-detection-induction-course/blob/master/input_static_pic_to_gif2_for_class.py)
+* å†™åˆ°è¿™é‡Œï¼Œè¿™ä¸ªå°åŠŸèƒ½å°±å·²ç»å®ç°äº†ï¼Œå¤§å®¶ä¸å¦¨äº‹æ¥ä½¿ç”¨ä¸€ä¸‹.[è·å–å®Œæ•´ä»£ç ](https://github.com/tomoncle/face-detection-induction-course/blob/master/input_static_pic_to_gif2_for_class.py)
 
-## Ğ´ÔÚ×îºó
-* ¹Ø×¢[face-detection-induction-course](https://github.com/tomoncle/face-detection-induction-course)Õâ¸ö²Ö¿â£¬²»¶¨Ê±¸üĞÂ¸ü¶àµÄÈËÁ³Ê¶±ğĞ¡Ê¾Àı¡£
-* ÕâÀïÎÒÌá¹©ÁËÒ»¸öÁÙÊ±²âÊÔµÄµØÖ·: https://liyuanjun.cn/gifmask£¬×¢Òâ:**µ½2019-03-20ºÅÍ£Ö¹·ÃÎÊ.**
-* [Ä£ĞÍÏÂÔØ](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2)
+## å†™åœ¨æœ€å
+* å…³æ³¨[face-detection-induction-course](https://github.com/tomoncle/face-detection-induction-course)è¿™ä¸ªä»“åº“ï¼Œä¸å®šæ—¶æ›´æ–°æ›´å¤šçš„äººè„¸è¯†åˆ«å°ç¤ºä¾‹ã€‚
+* è¿™é‡Œæˆ‘æä¾›äº†ä¸€ä¸ªä¸´æ—¶æµ‹è¯•çš„åœ°å€: https://liyuanjun.cn/gifmaskï¼Œæ³¨æ„:**åˆ°2019-03-20å·åœæ­¢è®¿é—®.**
+* [æ¨¡å‹ä¸‹è½½](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2)
