@@ -2,16 +2,15 @@
 ![demo.gif](images/input_static_pic_to_gif2_for_class.gif)
 
 ## 导言
-* 为什么会写这个人脸例子？
+* **为什么会写这个人脸例子？**
 > 浏览博客的过程，无意发现了一篇名为[deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/)的文章,
 通过这篇文章，使我有了写这个例子的想法.尤其是现在很多恶搞视频中经常出现这样的信息，感觉还是有点好玩的.
 
-* 感谢!
+* **感谢!**
 > 写这个例子初衷与资料来自[burningion](https://www.makeartwithpython.com/)的分享. 
 
-* 变化？
-> [deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/) 这篇文章是一个戴眼镜的简单例子，
-我在其原基础上，添加了烟卷的部分，并且把代码结构重构了一下，使其更易拓展和维护，也易于阅读.
+* **变化？**
+> [deal-with-it-generator-face-recognition](https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/) 这篇文章是一个戴眼镜的简单例子，我在其原基础上，添加了烟卷的部分，并且把代码结构重构了一下，写成一个工具类的形式，使其更易拓展和维护，也易于阅读.
 
 
 ## 实现流程
@@ -20,7 +19,7 @@
 
 > 然后我们需要缩放和旋转我们的眼镜以适合每个人的脸。我们将使用从Dlib的68点模型返回的点集来找到眼睛的中心，并为它们之间的空间旋转。
 
-> 在我们找到眼镜的最终位置和旋转后，我们可以为gif制作动画，眼镜从屏幕顶部进入。我们将使用MoviePy和一个make_frame函数绘制它。
+> 在我们找到眼镜的最终位置和旋转后，我们可以为gif制作动画，眼镜从屏幕顶部进入。我们将使用MoviePy和一个自定义的FaceDetect工具类绘制它。
 
 > 同理烟卷也是这样。
 
