@@ -133,7 +133,7 @@ class FaceDetect(object):
 
     def get_cigarette_info(self, face_shape, face_width):
         """
-        获取当前面部的眼镜信息
+        获取当前面部的烟卷信息
         :param face_shape:
         :param face_width:
         :return:
