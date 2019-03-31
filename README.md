@@ -3,6 +3,7 @@
 
 ## Done
 * [识别任意存在人脸的照片，动态生成戴墨镜和叼烟卷的动图](input_static_pic_to_gif2_for_class.md)
+* [获取摄像头视频，实时控制多张人脸戴墨镜和叼烟卷](input_video_stream_paste_mask.md)
 
 ## Next
-* 下周更新，获取摄像头视频，实时控制多张人脸戴墨镜和叼烟卷
+* think about it.

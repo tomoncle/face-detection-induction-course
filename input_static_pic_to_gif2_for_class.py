@@ -169,11 +169,11 @@ class FaceDetect(object):
         return faces
 
     def drawing(self, t):
-		"""
-		动态画图
-		:param t:
-		:return:
-		"""
+        """
+        动态画图
+        :param t:
+        :return:
+        """
         draw_img = self.image.convert('RGBA')
         if t == 0:
             return np.asarray(draw_img)
