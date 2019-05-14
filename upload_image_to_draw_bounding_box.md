@@ -201,4 +201,4 @@ $ docker run -d -p 9080:9080 tomoncleshare/face-detection-induction-course:20190
 ```
 
 ##### 源码项目地址：https://github.com/tomoncle/mxnet-spring-samples 
-Welcome start or fork this repo. [Follow me](https://github.com/tomoncle) get the latest developments.
+欢迎 start 或 fork 这个仓库. [关注我](https://github.com/tomoncle) 获取最新的技术分享.
